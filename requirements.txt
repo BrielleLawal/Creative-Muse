@@ -1,0 +1,7 @@
+huggingface_hub==0.25.2
+gradio==5.32.0
+google-genai
+langchain
+langchain-community
+langchain-google-genai
+uuid
